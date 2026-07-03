@@ -1,4 +1,4 @@
-#  
+#  rare fish it Scripts offers the most advanced fish it Script, with infinite resources and auto-sell. Perfect for dominating any match.
 
 
 
